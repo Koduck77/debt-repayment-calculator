@@ -1,6 +1,6 @@
 # Debt Repayment Calculator
 
-This is a small Python program I made to calculate how long it may take to pay off a debt.
+This is an interesting Python program I made to calculate how long it may take to pay off a debt.
 
 The user enters the debt balance, yearly interest rate and monthly payment. The program repeats the calculation month by month until the balance reaches zero. It also shows the total interest and total amount paid.
 
